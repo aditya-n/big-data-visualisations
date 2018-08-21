@@ -9,7 +9,7 @@
 
 ### Visualizations
 ---
-Our visualizations can be seen live [here](https://srinidhinandakumar.github.io/ufo-sightings/)
+Our visualizations can be seen live [here](https://aditya-n.github.io/big-data-site/)
 
 **UFOs on Earth** 
 
@@ -29,4 +29,4 @@ Our visualizations can be seen live [here](https://srinidhinandakumar.github.io/
 
 ### Image similarity
 ---
-Refer to our inferences [here](https://github.com/srinidhinandakumar/big-data-visualizations/blob/master/docs/DATAVIZ.pdf)
+Refer to our inferences [here](https://github.com/aditya-n/big-data-visualisations/blob/master/docs/DATAVIZ.pdf)
